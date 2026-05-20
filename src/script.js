@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>All of Me</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">John Legend</div>
 
 <div class="player">
 <div class="topRow">
@@ -48,16 +48,16 @@ html:`
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
+<img src="src/4.JPEG" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.png" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
+<img src="src/4.JPEG" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.png" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,16 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Dear Meo,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+It’s been 23 days since we first met. Back then, I really thought everything between us would stay okay, but somehow things turned a little different from what I expected. I miss the way we used to be. I’m sorry if I’ve been overly sensitive or hard to understand sometimes. Sometimes, I can’t tell you whatever I feel, and part of me was scared that if I told you everything, things between us might change. It’s my fault.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+But after sending this, I truly hope we can slowly fix things together. I’ll try harder to be more honest and open with you, because I don’t want keep everything to myself. So please, don’t give up on us yet :) I know it hasn’t been easy, but I still want to spend time with you the way we did before. Last, thank you for being honest with me last night. It really means a lot for me. I love you more than words could ever explain, Meyo.
 
-But like late night radio waves that stay playing even when the world sleeps.
+Sincerely,
+Odie.
 
-END SIGNAL
+
 <span class="signal">END SIGNAL</span>
 
 </div>
